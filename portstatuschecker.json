@@ -1,0 +1,169 @@
+{
+  "port_status": [
+    {
+      "port_name": "Port of Shanghai",
+      "country": "China",
+      "status": "Operational",
+      "congestion_level": "Moderate",
+      "average_wait_time_hours": 18,
+      "weather_condition": "Cloudy",
+      "last_updated": "2025-11-03T08:00:00Z",
+      "remarks": "Seasonal surge; customs processing slower due to export inspections.",
+      "risk_score": 55
+    },
+    {
+      "port_name": "Port of Busan",
+      "country": "South Korea",
+      "status": "Operational",
+      "congestion_level": "Low",
+      "average_wait_time_hours": 6,
+      "weather_condition": "Clear",
+      "last_updated": "2025-11-03T06:00:00Z",
+      "remarks": "Normal throughput; increased container volume for year-end exports.",
+      "risk_score": 25
+    },
+    {
+      "port_name": "Port of Singapore",
+      "country": "Singapore",
+      "status": "Operational",
+      "congestion_level": "Low",
+      "average_wait_time_hours": 4,
+      "weather_condition": "Sunny",
+      "last_updated": "2025-11-03T09:15:00Z",
+      "remarks": "Efficient operations; automated berth scheduling active.",
+      "risk_score": 15
+    },
+    {
+      "port_name": "Port of Jakarta (Tanjung Priok)",
+      "country": "Indonesia",
+      "status": "Delayed",
+      "congestion_level": "High",
+      "average_wait_time_hours": 36,
+      "weather_condition": "Thunderstorms",
+      "last_updated": "2025-11-03T07:30:00Z",
+      "remarks": "Weather delays and temporary crane maintenance affecting container handling.",
+      "risk_score": 80
+    },
+    {
+      "port_name": "Port of Manila",
+      "country": "Philippines",
+      "status": "Partially Operational",
+      "congestion_level": "High",
+      "average_wait_time_hours": 28,
+      "weather_condition": "Heavy Rain",
+      "last_updated": "2025-11-03T05:45:00Z",
+      "remarks": "Port operations reduced due to flooding in access roads.",
+      "risk_score": 72
+    },
+    {
+      "port_name": "Port of Mumbai (Nhava Sheva)",
+      "country": "India",
+      "status": "Operational",
+      "congestion_level": "Moderate",
+      "average_wait_time_hours": 20,
+      "weather_condition": "Hazy",
+      "last_updated": "2025-11-03T10:00:00Z",
+      "remarks": "Customs system maintenance scheduled; minor export delays.",
+      "risk_score": 50
+    },
+    {
+      "port_name": "Port of Doha",
+      "country": "Qatar",
+      "status": "Operational",
+      "congestion_level": "Low",
+      "average_wait_time_hours": 5,
+      "weather_condition": "Clear",
+      "last_updated": "2025-11-03T08:30:00Z",
+      "remarks": "Stable port conditions; limited slots for hazardous cargo.",
+      "risk_score": 20
+    },
+    {
+      "port_name": "Port of Jebel Ali",
+      "country": "United Arab Emirates",
+      "status": "Operational",
+      "congestion_level": "Moderate",
+      "average_wait_time_hours": 15,
+      "weather_condition": "Sunny",
+      "last_updated": "2025-11-03T08:00:00Z",
+      "remarks": "Routine inspections slowing container transfers; security checks increased.",
+      "risk_score": 45
+    },
+    {
+      "port_name": "Port of Jeddah",
+      "country": "Saudi Arabia",
+      "status": "Delayed",
+      "congestion_level": "High",
+      "average_wait_time_hours": 30,
+      "weather_condition": "Clear",
+      "last_updated": "2025-11-03T07:45:00Z",
+      "remarks": "Backlog due to customs modernization program rollout.",
+      "risk_score": 70
+    },
+    {
+      "port_name": "Port of Alexandria",
+      "country": "Egypt",
+      "status": "Operational",
+      "congestion_level": "Moderate",
+      "average_wait_time_hours": 16,
+      "weather_condition": "Partly Cloudy",
+      "last_updated": "2025-11-03T09:00:00Z",
+      "remarks": "Improved turnaround times after system upgrade.",
+      "risk_score": 40
+    },
+    {
+      "port_name": "Port of Durban",
+      "country": "South Africa",
+      "status": "Partially Operational",
+      "congestion_level": "High",
+      "average_wait_time_hours": 32,
+      "weather_condition": "Rainy",
+      "last_updated": "2025-11-03T06:20:00Z",
+      "remarks": "Ongoing dock worker strike affecting loading operations.",
+      "risk_score": 78
+    },
+    {
+      "port_name": "Port of Rotterdam",
+      "country": "Netherlands",
+      "status": "Operational",
+      "congestion_level": "Low",
+      "average_wait_time_hours": 8,
+      "weather_condition": "Clear",
+      "last_updated": "2025-11-03T10:10:00Z",
+      "remarks": "Smooth customs clearance; mild congestion at tanker terminals.",
+      "risk_score": 28
+    },
+    {
+      "port_name": "Port of Hamburg",
+      "country": "Germany",
+      "status": "Operational",
+      "congestion_level": "Moderate",
+      "average_wait_time_hours": 14,
+      "weather_condition": "Overcast",
+      "last_updated": "2025-11-03T09:40:00Z",
+      "remarks": "Minor backlog after maintenance on Container Terminal Burchardkai.",
+      "risk_score": 35
+    },
+    {
+      "port_name": "Port of Santos",
+      "country": "Brazil",
+      "status": "Operational",
+      "congestion_level": "Moderate",
+      "average_wait_time_hours": 18,
+      "weather_condition": "Humid",
+      "last_updated": "2025-11-03T08:50:00Z",
+      "remarks": "High grain export traffic; berth utilization at 92%.",
+      "risk_score": 60
+    },
+    {
+      "port_name": "Port of Los Angeles",
+      "country": "United States",
+      "status": "Operational",
+      "congestion_level": "Low",
+      "average_wait_time_hours": 7,
+      "weather_condition": "Clear",
+      "last_updated": "2025-11-03T09:30:00Z",
+      "remarks": "Efficient operations; AI scheduling system improving turnaround.",
+      "risk_score": 18
+    }
+  ]
+}
