@@ -1,0 +1,139 @@
+{
+  "travel_advisories": [
+    {
+      "country": "Indonesia",
+      "advisory_level": "Level 2 – Exercise Increased Caution",
+      "reason": "Recent volcanic activity near Mount Marapi and localized flooding in Sumatra.",
+      "effective_date": "2025-11-01",
+      "issued_by": "U.S. Department of State",
+      "restrictions": "Avoid travel within 10 km of active volcano zones.",
+      "risk_score": 65
+    },
+    {
+      "country": "China",
+      "advisory_level": "Level 2 – Exercise Increased Caution",
+      "reason": "Heightened security checks and travel restrictions in Xinjiang and Tibet.",
+      "effective_date": "2025-10-20",
+      "issued_by": "UK Foreign Office",
+      "restrictions": "Travel permits required for certain western provinces.",
+      "risk_score": 55
+    },
+    {
+      "country": "Vietnam",
+      "advisory_level": "Level 1 – Exercise Normal Precautions",
+      "reason": "Low crime rate, stable environment; watch for seasonal typhoons in coastal areas.",
+      "effective_date": "2025-10-10",
+      "issued_by": "Australian DFAT",
+      "restrictions": "Monitor weather forecasts between June–November.",
+      "risk_score": 25
+    },
+    {
+      "country": "Qatar",
+      "advisory_level": "Level 1 – Normal Precautions",
+      "reason": "Stable political climate with heightened security around major events.",
+      "effective_date": "2025-11-02",
+      "issued_by": "Canadian Global Affairs",
+      "restrictions": "Follow local laws; avoid photographing government buildings.",
+      "risk_score": 20
+    },
+    {
+      "country": "Philippines",
+      "advisory_level": "Level 3 – Reconsider Travel",
+      "reason": "Increased risk of kidnapping and terrorism in Mindanao and Sulu Archipelago.",
+      "effective_date": "2025-09-15",
+      "issued_by": "U.S. Department of State",
+      "restrictions": "Avoid non-essential travel to southern provinces.",
+      "risk_score": 80
+    },
+    {
+      "country": "Egypt",
+      "advisory_level": "Level 3 – Reconsider Travel",
+      "reason": "Security incidents near North Sinai and border areas with Libya and Sudan.",
+      "effective_date": "2025-10-28",
+      "issued_by": "UK Foreign Office",
+      "restrictions": "Avoid North Sinai and Western Desert areas.",
+      "risk_score": 78
+    },
+    {
+      "country": "Japan",
+      "advisory_level": "Level 1 – Normal Precautions",
+      "reason": "Highly safe for travelers; minor disruptions from recent typhoon recovery.",
+      "effective_date": "2025-11-05",
+      "issued_by": "US CDC / TravelSafe",
+      "restrictions": "Carry ID; follow local disaster alerts.",
+      "risk_score": 15
+    },
+    {
+      "country": "Saudi Arabia",
+      "advisory_level": "Level 2 – Exercise Increased Caution",
+      "reason": "Regional tensions and limited freedom of assembly.",
+      "effective_date": "2025-10-25",
+      "issued_by": "European Union EEAS",
+      "restrictions": "Avoid demonstrations; respect local customs.",
+      "risk_score": 60
+    },
+    {
+      "country": "Australia",
+      "advisory_level": "Level 1 – Exercise Normal Precautions",
+      "reason": "Stable government and infrastructure; bushfire season in some regions.",
+      "effective_date": "2025-11-03",
+      "issued_by": "US Department of State",
+      "restrictions": "Monitor fire warnings and air quality updates.",
+      "risk_score": 30
+    },
+    {
+      "country": "United Kingdom",
+      "advisory_level": "Level 1 – Normal Precautions",
+      "reason": "General safety high; minor transport disruptions from labor strikes.",
+      "effective_date": "2025-10-18",
+      "issued_by": "Canadian Global Affairs",
+      "restrictions": "Plan for delays in rail networks during strikes.",
+      "risk_score": 25
+    },
+    {
+      "country": "India",
+      "advisory_level": "Level 2 – Exercise Increased Caution",
+      "reason": "Political demonstrations and air pollution spikes in Delhi and NCR region.",
+      "effective_date": "2025-11-04",
+      "issued_by": "US Department of State",
+      "restrictions": "Avoid protest sites and monitor air quality index (AQI).",
+      "risk_score": 58
+    },
+    {
+      "country": "Singapore",
+      "advisory_level": "Level 1 – Normal Precautions",
+      "reason": "Very low crime; minor dengue outbreak in western districts.",
+      "effective_date": "2025-10-29",
+      "issued_by": "Australian DFAT",
+      "restrictions": "Use mosquito repellent; register travel plans.",
+      "risk_score": 18
+    },
+    {
+      "country": "Kenya",
+      "advisory_level": "Level 3 – Reconsider Travel",
+      "reason": "Heightened terrorist threat near Somali border; recent protests in Nairobi.",
+      "effective_date": "2025-11-01",
+      "issued_by": "US Department of State",
+      "restrictions": "Avoid border regions and large gatherings.",
+      "risk_score": 82
+    },
+    {
+      "country": "Brazil",
+      "advisory_level": "Level 2 – Exercise Increased Caution",
+      "reason": "Petty crime in urban centers; political rallies in Rio and São Paulo.",
+      "effective_date": "2025-10-22",
+      "issued_by": "UK Foreign Office",
+      "restrictions": "Avoid night travel; stay aware in crowded areas.",
+      "risk_score": 50
+    },
+    {
+      "country": "Turkey",
+      "advisory_level": "Level 2 – Exercise Increased Caution",
+      "reason": "Intermittent security operations near the Syrian border and political protests.",
+      "effective_date": "2025-10-31",
+      "issued_by": "European Union EEAS",
+      "restrictions": "Avoid southeastern border provinces; carry ID at all times.",
+      "risk_score": 68
+    }
+  ]
+}
