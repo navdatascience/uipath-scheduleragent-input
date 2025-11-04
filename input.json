@@ -1,0 +1,67 @@
+{
+  "po_number": "PO-12345",
+  "shipment": {
+    "container_id": "CONT-987654",
+    "carrier": "Maersk Line",
+    "current_status": "In Transit",
+    "planned_departure_date": "2025-10-25",
+    "actual_departure_date": "2025-10-27",
+    "planned_arrival_date": "2025-11-07",
+    "estimated_arrival_date": "2025-11-11",
+    "route": {
+      "origin_port": "Shanghai, China",
+      "transshipment_port": "Singapore",
+      "destination_port": "Los Angeles, USA"
+    },
+    "milestones": [
+      {
+        "name": "Booking Confirmed",
+        "planned_date": "2025-10-22",
+        "actual_date": "2025-10-22",
+        "is_late": false
+      },
+      {
+        "name": "Loaded at Origin",
+        "planned_date": "2025-10-25",
+        "actual_date": "2025-10-27",
+        "is_late": true
+      },
+      {
+        "name": "Departed Port",
+        "planned_date": "2025-10-26",
+        "actual_date": "2025-10-28",
+        "is_late": true
+      },
+      {
+        "name": "Arrived Transshipment",
+        "planned_date": "2025-11-02",
+        "actual_date": "2025-11-03",
+        "is_late": true
+      },
+      {
+        "name": "Final Arrival",
+        "planned_date": "2025-11-07",
+        "estimated_date": "2025-11-11",
+        "is_late": true
+      }
+    ]
+  },
+  "project_context": {
+    "project_name": "Turbine Equipment Delivery - Phase 2",
+    "site_name": "Jakarta Port Expansion",
+    "country": "Indonesia",
+    "client": "Global Energy Systems Ltd.",
+    "region": "Southeast Asia"
+  },
+  "customer_commitments": {
+    "customer_promise_date": "2025-11-09",
+    "sla_days": 3,
+    "penalty_if_delayed": "1.5% of shipment value per day after SLA breach"
+  },
+  "metadata": {
+    "created_by": "UiPath Agent MCP",
+    "source_system": "UiPath Data Service",
+    "last_synced": "2025-11-03T09:00:00Z",
+    "version": "1.0.0"
+  }
+}
